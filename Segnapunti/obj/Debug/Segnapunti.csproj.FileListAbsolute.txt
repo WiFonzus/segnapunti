@@ -1,0 +1,14 @@
+c:\SOS\Segnapunti\Segnapunti\bin\Debug\Segnapunti.exe.config
+c:\SOS\Segnapunti\Segnapunti\bin\Debug\Segnapunti.exe
+c:\SOS\Segnapunti\Segnapunti\bin\Debug\Segnapunti.pdb
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.csprojResolveAssemblyReference.cache
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.Form1.resources
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.Properties.Resources.resources
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.csproj.GenerateResource.Cache
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.exe
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.pdb
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.Projected.resources
+c:\SOS\Segnapunti\Segnapunti\bin\Debug\Segnapunti.exe.manifest
+c:\SOS\Segnapunti\Segnapunti\bin\Debug\Segnapunti.application
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.exe.manifest
+c:\SOS\Segnapunti\Segnapunti\obj\Debug\Segnapunti.application
